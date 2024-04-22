@@ -302,9 +302,10 @@ img {
 }
 
 .btn-xl {
-  font-size: 1.6rem;
-  padding: 1.5rem 2.1rem;
+  font-size: 1.2rem;
+  padding: 1rem 2rem;
   text-transform: uppercase;
+  border-radius: 5px;
 }
 
 .btn-lg {
